@@ -1,8 +1,3 @@
-var a = "hello world";
-
-function b(){
-	console.log('called b');
-}
-
-b();
+var a;
 console.log(a);
+
